@@ -9,7 +9,7 @@ package com.mycompany.polymorphism;
  * @author AMITAVA
  */
 
-//Function overloading
+//Method overloading
 class Student{
     String name;
     int age;
