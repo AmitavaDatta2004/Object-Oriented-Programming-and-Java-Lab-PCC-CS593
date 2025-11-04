@@ -24,3 +24,5 @@ hs_err_pid*
 replay_pid*
 /project1/target/
 /project2/target/
+/Polymorphism/target/
+/constructor/target/
