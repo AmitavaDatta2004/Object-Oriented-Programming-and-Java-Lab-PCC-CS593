@@ -16,5 +16,11 @@ public class Interfaces {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
+        
+//        bank.Account account1=new bank.Account();
+//        account1.name="Amitava";
+        bank.acc
     }
+    
+    
 }
