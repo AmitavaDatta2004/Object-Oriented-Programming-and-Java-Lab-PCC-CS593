@@ -31,3 +31,6 @@ replay_pid*
 /exceptionhandling/target/
 /threads/target/
 /linkedList/target/
+/exam/target/
+/Sem/ThreadsMain/target/
+/Sem/ThreadShared/target/

@@ -16,7 +16,7 @@ class ThreadOne extends Thread{
                 System.out.println("thread 1 : "+i);
                 sleep(5);
             }
-        } catch (InterruptedException e){
+        } catch (Exception e){
             System.out.println(e);
         }
 
